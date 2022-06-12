@@ -1,4 +1,4 @@
-# JavaScript-Odev1
+# JS-clockApp
 Javascript Saat ve Karşılama
 
 ## License
